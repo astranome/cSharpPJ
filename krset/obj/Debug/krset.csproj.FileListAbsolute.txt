@@ -1,0 +1,30 @@
+c:\users\syurius\documents\visual studio 2013\Projects\krset\krset\bin\Debug\krset.exe.config
+c:\users\syurius\documents\visual studio 2013\Projects\krset\krset\bin\Debug\krset.exe
+c:\users\syurius\documents\visual studio 2013\Projects\krset\krset\bin\Debug\krset.pdb
+c:\users\syurius\documents\visual studio 2013\Projects\krset\krset\obj\Debug\krset.Form1.resources
+c:\users\syurius\documents\visual studio 2013\Projects\krset\krset\obj\Debug\krset.Form2.resources
+c:\users\syurius\documents\visual studio 2013\Projects\krset\krset\obj\Debug\krset.Properties.Resources.resources
+c:\users\syurius\documents\visual studio 2013\Projects\krset\krset\obj\Debug\krset.csproj.GenerateResource.Cache
+c:\users\syurius\documents\visual studio 2013\Projects\krset\krset\obj\Debug\krset.exe
+c:\users\syurius\documents\visual studio 2013\Projects\krset\krset\obj\Debug\krset.pdb
+C:\Users\Syurius\Documents\Visual Studio 2013\Projects\krset\krset\obj\Debug\krset.csprojResolveAssemblyReference.cache
+C:\Users\Yuri\Desktop\krset\krset\bin\Debug\krset.exe.config
+C:\Users\Yuri\Desktop\krset\krset\obj\Debug\krset.exe
+C:\Users\Yuri\Desktop\krset\krset\bin\Debug\krset.exe
+C:\Users\Yuri\Desktop\krset\krset\bin\Debug\krset.pdb
+C:\Users\Yuri\Desktop\krset\krset\obj\Debug\krset.csprojResolveAssemblyReference.cache
+C:\Users\Yuri\Desktop\krset\krset\obj\Debug\krset.Form1.resources
+C:\Users\Yuri\Desktop\krset\krset\obj\Debug\krset.Form2.resources
+C:\Users\Yuri\Desktop\krset\krset\obj\Debug\krset.Properties.Resources.resources
+C:\Users\Yuri\Desktop\krset\krset\obj\Debug\krset.csproj.GenerateResource.Cache
+C:\Users\Yuri\Desktop\krset\krset\obj\Debug\krset.pdb
+C:\Users\Syurius\Downloads\krset\krset\bin\Debug\krset.exe.config
+C:\Users\Syurius\Downloads\krset\krset\bin\Debug\krset.exe
+C:\Users\Syurius\Downloads\krset\krset\bin\Debug\krset.pdb
+C:\Users\Syurius\Downloads\krset\krset\obj\Debug\krset.csprojResolveAssemblyReference.cache
+C:\Users\Syurius\Downloads\krset\krset\obj\Debug\krset.Form1.resources
+C:\Users\Syurius\Downloads\krset\krset\obj\Debug\krset.Form2.resources
+C:\Users\Syurius\Downloads\krset\krset\obj\Debug\krset.Properties.Resources.resources
+C:\Users\Syurius\Downloads\krset\krset\obj\Debug\krset.csproj.GenerateResource.Cache
+C:\Users\Syurius\Downloads\krset\krset\obj\Debug\krset.exe
+C:\Users\Syurius\Downloads\krset\krset\obj\Debug\krset.pdb
